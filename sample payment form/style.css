@@ -1,0 +1,31 @@
+h1{
+    color:rgb(245, 252, 252);
+    background-color: black;
+    text-align: center;
+    border-radius: 50px;
+}
+body{
+background-color:aqua;
+}
+h2{
+    color:brown;
+    background-color: azure;
+    border-radius: 80px;
+   text-indent: 10px;
+  
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    background-color: ;
+}
+div{
+    text-align: center;
+    
+    background-color: aquamarine;
+    border-radius: 100px;
+   
+   
+}
+#addres{
+text-align: center;
+}
